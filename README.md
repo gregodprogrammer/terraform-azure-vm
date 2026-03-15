@@ -13,8 +13,7 @@
 
 ## 📸 Live Deployment
 
-<!-- SCREENSHOT 1: Paste your Azure portal screenshot here -->
-<!-- Example: ![Azure Portal VM](screenshots/azure-portal-vm.png) -->
+![Azure Portal — VM Running](screenshots/azure-portal-vm.png)
 
 ---
 
@@ -187,7 +186,7 @@ ssh_command       = "ssh azureuser@xx.xx.xx.xx"
 vm_name           = "terraform-ubuntu-vm"
 ```
 
-<!-- SCREENSHOT 2: Paste terraform apply output screenshot here -->
+![Terraform Apply Output](screenshots/terraform-apply.png)
 
 ---
 
@@ -202,7 +201,7 @@ az vm list -d \
 terraform output public_ip_address
 ```
 
-<!-- SCREENSHOT 3: Paste az vm list output screenshot here -->
+![Azure CLI — VM Running](screenshots/az-vm-list.png)
 
 ---
 
@@ -218,7 +217,14 @@ Type `yes` when prompted.
 Destroy complete! Resources: 8 destroyed.
 ```
 
-<!-- SCREENSHOT 4: Paste terraform destroy screenshot here -->
+![Terraform Destroy Complete](screenshots/terraform-destroy.png)
+```
+
+---
+
+Save and exit:
+```
+CTRL + O → Enter → CTRL + X
 
 ---
 

@@ -252,7 +252,7 @@ terraform-azure-vm/
 Read the complete step-by-step guide including troubleshooting tips
 on Medium:
 
-[Read the full guide on Medium →](https://medium.com/@greg.ethel)
+[Read the full guide on Medium →](https://medium.com/@greg.ethel/deploying-an-azure-vm-with-terraform-the-complete-guide-b933b075f0a4)
 ---
 
 ## 👤 Author

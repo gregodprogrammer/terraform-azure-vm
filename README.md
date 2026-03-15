@@ -154,7 +154,7 @@ printenv | grep ARM_
 
 ## 📁 Step 4 — Clone and Configure
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/terraform-azure-vm.git
+git clone https://github.com/gregodprogrammer/terraform-azure-vm.git
 cd terraform-azure-vm
 ```
 
@@ -252,16 +252,14 @@ terraform-azure-vm/
 Read the complete step-by-step guide including troubleshooting tips
 on Medium:
 
-<!-- MEDIUM LINK: Replace with your actual Medium post URL -->
-[Read the full guide on Medium →](<YOUR_MEDIUM_LINK>)
-
+[Read the full guide on Medium →](https://medium.com/@greg.ethel)
 ---
 
 ## 👤 Author
 
 **Greg ODI**
-- GitHub: [@<YOUR_USERNAME>](https://github.com/<YOUR_USERNAME>)
-- Medium: [@<YOUR_MEDIUM_HANDLE>](https://medium.com/@<YOUR_MEDIUM_HANDLE>)
+- GitHub: [@gregodprogrammer](https://github.com/gregodprogrammer)
+- Medium: [@Greg Ethel](https://medium.com/@greg.ethel)
 
 ---
 
